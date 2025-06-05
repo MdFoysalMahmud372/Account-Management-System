@@ -73,16 +73,16 @@ OR
 ![Home](/homepage.png)
 
 ### 📄 Chart of Accounts
-![Accounts](screenshots/accounts.png)
+![Accounts](/accounts.png)
 
 ### 🧾 Voucher Entry
-![Voucher](screenshots/voucher.png)
+![Voucher](/voucher.png)
 
 ### 🔐 Role Access Control
-![Roles](screenshots/roles.png)
+![Roles](roles.png)
 
 ### 📤 Export to Excel
-![Export](screenshots/export.png)
+![Export](/export.png)
 
 ---
 
