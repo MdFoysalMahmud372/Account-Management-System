@@ -70,7 +70,7 @@ OR
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](main/homepage.png)
+![Home](/homepage.png)
 
 ### 📄 Chart of Accounts
 ![Accounts](screenshots/accounts.png)
