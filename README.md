@@ -74,6 +74,7 @@ OR
 
 ### 📄 Chart of Accounts
 ![Accounts](/accounts.png)
+![Accounts](/accounts2.png)
 
 ### 🧾 Voucher Entry
 ![Voucher](/voucher.png)
