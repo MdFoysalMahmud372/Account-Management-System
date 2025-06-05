@@ -77,8 +77,8 @@ OR
 ![Accounts](/accounts2.png)
 
 ### 🧾 Voucher Entry
-![Voucher](/voucher.png)
-
+![Voucher](/viewvoucher.png)
+![Voucher](/craetevoucher.png)
 ### 🔐 Role Access Control
 ![Roles](roles.png)
 
