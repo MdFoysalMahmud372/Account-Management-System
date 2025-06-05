@@ -72,6 +72,9 @@ OR
 ### 🏠 Home Page
 ![Home](/homepage.png)
 
+### Create Account
+![Create Account](/createaccount.png)
+
 ### 📄 Chart of Accounts
 ![Accounts](/accounts.png)
 ![Accounts](/accounts2.png)
