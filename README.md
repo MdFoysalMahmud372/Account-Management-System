@@ -68,6 +68,11 @@ OR
 ---
 
 ## 📸 Screenshots
+### Register
+![Register](/register.png)
+
+### login
+![Login](/login.png)
 
 ### 🏠 Home Page
 ![Home](/homepage.png)
@@ -85,8 +90,7 @@ OR
 ### 🔐 Role Access Control
 ![Roles](roles.png)
 
-### login
-![Login](/login.png)
+
 
 ---
 
